@@ -26,8 +26,7 @@ def FIRST(symbol):
         
         # Step 4: Recursively compute FIRST of the first symbol
         # Hint: Use result.update(...) to add all elements from the recursive call
-        # result.update(FIRST(first_symbol))
-        pass  # <-- Students should replace this line
+        pass  # <-- You should replace this line and write your code here.
 
     # Step 5: Return the computed FIRST set
     return result
